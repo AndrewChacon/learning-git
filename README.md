@@ -36,3 +36,13 @@ Staging is where ur files will sit until they are ready to be commited
 `git log --oneline`
 
 `git reset a4b21b8`
+
+`git rebase -i --root` :x to quit
+
+# Branches
+
+`git branch FixTemp`
+
+`git branch`
+
+`git switch FixTemp`
