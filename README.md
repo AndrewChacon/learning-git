@@ -1,7 +1,3 @@
-# ignore all .txt files
-
-\*.txt
-
 https://github.com/github/gitignore
 
 `git add <file>`
@@ -13,3 +9,9 @@ https://github.com/github/gitignore
 `git init`
 
 `git add --all, git add -A, git add .`
+
+`git commit -m "commit message"`
+
+Staging is where ur files will sit until they are ready to be commited
+
+`git restore --staged index.htm` - removes it from staging to working files
