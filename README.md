@@ -52,3 +52,9 @@ Staging is where ur files will sit until they are ready to be commited
 `git branch -D FixTemp`
 
 `git switch -c UpdateText`
+
+`git push --all` pushes all branches
+
+`git fetch` downloads the history from the remote tracking branches
+
+`git pull` downloads all the files
