@@ -46,3 +46,9 @@ Staging is where ur files will sit until they are ready to be commited
 `git branch`
 
 `git switch FixTemp`
+
+`git merge -m "Merge fixtemp back to master" FixTemp`
+
+`git branch -D FixTemp`
+
+`git switch -c UpdateText`
